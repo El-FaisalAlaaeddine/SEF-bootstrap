@@ -1,1 +1,2 @@
-# SEF-bootstrap
+- files on master branch
+- the back ground image on first container disappeared although the url still exists and worked on my local browser
