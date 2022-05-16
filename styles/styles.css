@@ -8976,7 +8976,7 @@
 
   .first-container{
     background-image: url("../assets/presentation.JPG");
-
+    background-color: black;
     background-repeat: no-repeat;
     background-size: 100%;
     background-attachment:local;
